@@ -1,2 +1,2 @@
 # Flask_Market
-Creating new flask project
+Glimpse of my project.
